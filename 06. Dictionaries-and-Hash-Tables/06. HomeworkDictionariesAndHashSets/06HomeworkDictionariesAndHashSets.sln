@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01Dictionary", "01. Dictionary\01Dictionary.csproj", "{B4655CCF-3A04-408E-A1E3-C00DACA802DF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02CountSymbols", "02. CountSymbols\02CountSymbols.csproj", "{56D8B086-5E3C-4433-BBFD-948EFF68F1F2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03Phonebook", "03. Phonebook\03Phonebook.csproj", "{E1F276BE-86CD-4854-BE33-E33A90982896}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B4655CCF-3A04-408E-A1E3-C00DACA802DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4655CCF-3A04-408E-A1E3-C00DACA802DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4655CCF-3A04-408E-A1E3-C00DACA802DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4655CCF-3A04-408E-A1E3-C00DACA802DF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{56D8B086-5E3C-4433-BBFD-948EFF68F1F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56D8B086-5E3C-4433-BBFD-948EFF68F1F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56D8B086-5E3C-4433-BBFD-948EFF68F1F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56D8B086-5E3C-4433-BBFD-948EFF68F1F2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E1F276BE-86CD-4854-BE33-E33A90982896}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E1F276BE-86CD-4854-BE33-E33A90982896}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E1F276BE-86CD-4854-BE33-E33A90982896}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E1F276BE-86CD-4854-BE33-E33A90982896}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
